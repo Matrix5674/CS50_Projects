@@ -1,0 +1,47 @@
+.text {
+    color: #303030;
+    text-indent: 50px;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.title {
+    color: 'black';
+    font-family: "Lucidia Console", monospace;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.heading2 {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    color: "black";
+    margin-top: 10px;
+}
+
+.secret {
+    background-color: yellow;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 2px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.forms {
+    margin-left: 25px;
+    margin-bottom: 15px;
+    color: "black";
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 10px;
+}
+
+.margin-top {
+    margin-top: 10px;
+}
